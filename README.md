@@ -14,10 +14,14 @@ Your project should:
 
 #### Style guide :
   <br>
+  
 ![Screenshot (273)](https://user-images.githubusercontent.com/56837137/137022968-97887396-c0fa-4b95-80fb-c57444d6abfa.png)
 
-###### Body
+  
   <br>
+  
+#### Body
+  
 FONT FAMILY
 -apple-system, system-ui, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif<br>
   <br>
