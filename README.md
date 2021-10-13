@@ -1,7 +1,7 @@
 # Instagram-Clone-Project
 
 #### Instructions
-###### Your challenge is to build out this project and get it looking as close to the design as possible.
+###### I have build this Instagram clone using HTML, CSS and Javascript.
 ![Screenshot (272)](https://user-images.githubusercontent.com/56837137/137022918-178a5a8f-f34f-49c2-80b2-b88807a58c05.png)
 
 
