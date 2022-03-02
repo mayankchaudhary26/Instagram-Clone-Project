@@ -1,7 +1,7 @@
 # Instagram-Clone-Project
 
 #### Instructions
-###### I have build this Instagram clone using HTML, CSS and Javascript.
+###### I have build this Instagram clone using HTML and CSS.
 ![Screenshot (272)](https://user-images.githubusercontent.com/56837137/137022918-178a5a8f-f34f-49c2-80b2-b88807a58c05.png)
 
 
